@@ -3523,7 +3523,6 @@ display: block;
 		}
 
 	@media screen and (max-width: 736px) {
-
 		#page-wrapper {
 			height: auto;
 			padding: 1rem;
@@ -3538,8 +3537,6 @@ display: block;
 		}
 
 	}
-
-/* Wrapper */
 
 	#wrapper {
 		border:4px dashed #9E9E9E;
